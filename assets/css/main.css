@@ -2614,7 +2614,7 @@ input, select, textarea {
 		}
 
 /* Icons */
-
+.star {color: #FFC700; transform: scale(1.2); margin-bottom: 5px;}
 	ul.icons {
 		cursor: default;
 		list-style: none;
