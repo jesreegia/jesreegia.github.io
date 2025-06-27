@@ -2612,9 +2612,9 @@ input, select, textarea {
 						}
 
 		}
-
+.features.test li {box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; padding:25px; border-radius: 10px;}
 /* Icons */
-.star {color: #FFC700; transform: scale(1.2); margin-bottom: 5px;}
+.star {color: #FFC700; transform: scale(1.4); margin-bottom: 5px;}
 	ul.icons {
 		cursor: default;
 		list-style: none;
@@ -3086,7 +3086,7 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 5em 5em 4em 5em ;
 		}
 
 			#header.alt h1 {
@@ -3783,3 +3783,27 @@ input, select, textarea {
 			}
 
 		}
+
+
+
+		img.test-image {
+    width: 25%;
+    margin-top: -4rem;
+    margin-inline: auto;
+    display: block;
+    border: 1.5px solid #eee;
+    padding: 10px;
+    margin-bottom: 1em;
+    border-radius: 5px;
+}
+
+.testimony li {
+    text-decoration: none;
+    list-style: none;
+	box-shadow: 0 8px 20px 2px rgba(0, 0, 0, .07);
+	border-radius: 5px;
+	padding: 2rem;
+	margin: 5rem;
+}
+
+.testimony li p {font-size: 1em!important;}
