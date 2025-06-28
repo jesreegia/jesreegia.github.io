@@ -3787,7 +3787,7 @@ input, select, textarea {
 
 
 		img.test-image {
-    width: 25%;
+    width: 250px;
     margin-top: -4rem;
     margin-inline: auto;
     display: block;
@@ -3803,7 +3803,7 @@ input, select, textarea {
 	box-shadow: 0 8px 20px 2px rgba(0, 0, 0, .07);
 	border-radius: 5px;
 	padding: 2rem;
-	margin: 5rem;
+	margin: 5rem 0rem;
 }
 
 .testimony li p {font-size: 1em!important;}
