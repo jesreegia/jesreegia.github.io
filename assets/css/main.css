@@ -2902,7 +2902,9 @@ input, select, textarea {
 			.statistics li.style5 {
 				background-color: #8cc9f0;
 			}
-
+.statistics li.style6 {
+				background-color: #8c8ef0;
+			}
 			.statistics li strong, .statistics li b {
 				display: block;
 				font-size: 2em;
@@ -2943,7 +2945,7 @@ input, select, textarea {
 
 			.statistics {
 				display: block;
-				width: 20em;
+				width: 30em;
 				max-width: 100%;
 				margin: 0 auto 2em auto;
 			}
@@ -3807,3 +3809,27 @@ input, select, textarea {
 }
 
 .testimony li p {font-size: 1em!important;}
+
+.statistics h3 {font-weight: 500; color: #fff!important; text-align: left;}
+.statistics p {text-align: left; margin: 0!important;}
+ul.statistics.stats1 {
+    margin-bottom: 20px;
+}
+
+
+
+
+img.aws-image {
+    width: 230px;
+    padding: 20px;
+}
+
+img.a-image {
+    width: 260px;
+    padding: 20px;
+}
+
+img.b-image {
+    width: 230px;
+    padding: 20px;
+}
